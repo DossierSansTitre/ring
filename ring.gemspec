@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email        = ["max@bacoux.com"]
 
   spec.summary      = 'A web framework with some design.'
-  spec.homepage     = 'https://github.com/Nax/ring'
+  spec.homepage     = 'https://github.com/DossierSansTitre/ring'
   spec.license      = 'MIT'
 
   spec.files         = Dir["lib/**/*", "exe/*"]
